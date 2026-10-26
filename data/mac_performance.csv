@@ -1,0 +1,25 @@
+model_name,geekbench6_single_core,geekbench6_multi_core,estimated_market_price
+Mac Pro Original 8-Core,310,1120,468.0
+Mac Pro 8-Core Nehalem,490,2950,742.5
+MacBook Pro 15-inch Retina (2012),680,2350,652.5
+Mac Pro Cylinder 12-Core (2013),730,5600,1140.0
+iMac 27-inch Retina 5K (2014),950,3450,817.5
+MacBook 12-inch Retina (2015),580,1250,487.5
+iMac Pro 18-Core (2017),1220,10200,1830.0
+Mac Pro 28-Core (2019),1390,15200,2580.0
+MacBook Pro 16-inch Core i9 (2019),1380,6450,1267.5
+Mac mini M1 (2020),2350,8500,1575.0
+MacBook Air 13-inch M1 (2020),2340,8350,1552.5
+MacBook Pro 16-inch M1 Max (2021),2410,12600,2190.0
+Mac Studio M1 Ultra (2022),2430,24200,3930.0
+MacBook Air 13-inch M2 (2022),2620,10100,1815.0
+Mac Studio M2 Ultra (2023),2850,28600,4590.0
+MacBook Pro 16-inch M2 Max (2023),2820,15150,2572.5
+MacBook Pro 16-inch M3 Max (2023),3190,21400,3510.0
+Mac mini M4 Pro (2024),3925,22800,3720.0
+MacBook Air 15-inch M3 (2024),3150,12100,2115.0
+MacBook Pro 14-inch M4 (2024),3890,15100,2565.0
+MacBook Pro 16-inch M4 Max (2024),4050,26700,4305.0
+MacBook Pro 14-inch M5 (2025),4120,16800,2820.0
+MacBook Pro 14-inch M5 Pro (2026),4210,25400,4110.0
+MacBook Pro 16-inch M5 Max (2026),4268,29233,4684.95
